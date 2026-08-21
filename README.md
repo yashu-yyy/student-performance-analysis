@@ -24,6 +24,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn (Jupyter Notebook)
 ![Gender vs subject scores](charts/03_gender_subject_bar.png)
 
 ## Files
-- `student_performance_analysis.ipynb` — full analysis notebook
+- `student-performance-analysis.ipynb` — full analysis notebook
 - `StudentsPerformance.csv` — dataset
 - `charts/` — saved chart images
